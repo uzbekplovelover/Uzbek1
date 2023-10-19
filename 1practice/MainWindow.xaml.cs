@@ -37,7 +37,10 @@ namespace RandomNumberSum
         {
             Close();
         }
-
+        //3123
+        //123123
+        //123
+        //123
         private void About_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Программа генерирует случайные числа в диапазоне от 2 до 10, пока их сумма не превысит заданное число K , Кудинов ИСП-34");
